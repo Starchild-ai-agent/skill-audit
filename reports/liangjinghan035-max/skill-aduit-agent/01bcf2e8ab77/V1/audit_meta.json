@@ -1,0 +1,60 @@
+{
+  "skill_owner": "liangjinghan035-max",
+  "skill_repo": "skill-aduit-agent",
+  "skill_url": "https://github.com/liangjinghan035-max/skill-aduit-agent",
+  "commit_hash": "01bcf2e8ab774797fcf8432c5fac506c64b186fe",
+  "commit_date": "2026-03-19T06:00:13Z",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T10:19:51.825412+00:00",
+  "total_files_scanned": 53,
+  "total_files_in_repo": 64,
+  "total_findings": 124,
+  "severity_counts": {
+    "CRITICAL": 8,
+    "HIGH": 54,
+    "MEDIUM": 25,
+    "LOW": 37,
+    "INFO": 31,
+    "SAFE": 0
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.6716666666666667,
+  "scan_stats": {
+    "total_files_walked": 64,
+    "files_analyzed": 53,
+    "files_skipped_type": 11,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 3,
+      ".json": 18,
+      ".py": 26,
+      ".yaml": 1,
+      ".txt": 2,
+      ".md": 8,
+      ".html": 1,
+      ".js": 1,
+      ".css": 1,
+      ".sh": 3
+    },
+    "analyzed_type_counts": {
+      "tool_config": 19,
+      "python": 26,
+      "dependency": 2,
+      "skill_prompt": 2,
+      "javascript": 1,
+      "shell": 3
+    },
+    "dominant_language": "Python",
+    "dominant_language_supported": true,
+    "code_files_total": 49,
+    "code_files_analyzed": 51,
+    "code_coverage_ratio": 1.0408163265306123,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 2
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}
