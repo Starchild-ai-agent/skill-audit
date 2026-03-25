@@ -1,0 +1,50 @@
+{
+  "skill_owner": "crazycs520",
+  "skill_repo": "note",
+  "skill_url": "https://github.com/crazycs520/note",
+  "commit_hash": "53f32b90e89f0687edeaf995a9ac52592eefc609",
+  "commit_date": "2020-06-01T00:50:28+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:30:58.168360+00:00",
+  "total_files_scanned": 2,
+  "total_files_in_repo": 88,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.8216666666666667,
+  "scan_stats": {
+    "total_files_walked": 88,
+    "files_analyzed": 2,
+    "files_skipped_type": 86,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 36,
+      ".png": 47,
+      ".docx": 1,
+      ".jpg": 3
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 2
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 2,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 2
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

@@ -1,0 +1,48 @@
+{
+  "skill_owner": "polyglot-k",
+  "skill_repo": "polyglot-k",
+  "skill_url": "https://github.com/polyglot-k/polyglot-k",
+  "commit_hash": "ca95afb33dc5dc6faab3d599440549a207e3e498",
+  "commit_date": "2026-02-05T12:56:37+09:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:26:10.837592+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 17,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "LOW",
+  "overall_confidence": 0.7233333333333334,
+  "scan_stats": {
+    "total_files_walked": 17,
+    "files_analyzed": 1,
+    "files_skipped_type": 16,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 6,
+      ".yml": 1,
+      ".svg": 10
+    },
+    "analyzed_type_counts": {
+      "tool_config": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 1,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

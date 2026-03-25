@@ -1,0 +1,48 @@
+{
+  "skill_owner": "wuyumin",
+  "skill_repo": "VSCode",
+  "skill_url": "https://github.com/wuyumin/VSCode",
+  "commit_hash": "ebc5bcee434aee602e13a2d1dd2434435e9fd5e0",
+  "commit_date": "2026-03-07T15:37:35+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:30:58.332737+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 8,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 1,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.7566666666666666,
+  "scan_stats": {
+    "total_files_walked": 8,
+    "files_analyzed": 1,
+    "files_skipped_type": 7,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 6,
+      ".code-snippets": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

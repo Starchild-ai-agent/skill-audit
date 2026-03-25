@@ -1,0 +1,62 @@
+{
+  "skill_owner": "xiaou61",
+  "skill_repo": "2026-bs",
+  "skill_url": "https://github.com/xiaou61/2026-bs",
+  "commit_hash": "698be0e13a17e20ca022a31784f4bcba085a0510",
+  "commit_date": "2026-03-17T17:40:08+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:42:58.258170+00:00",
+  "total_files_scanned": 33,
+  "total_files_in_repo": 300,
+  "total_findings": 12,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "MEDIUM": 5,
+    "LOW": 3,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "HIGH (PARTIAL AUDIT — Java code not analyzed)",
+  "overall_confidence": 0.18456923076923076,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 33,
+    "files_skipped_type": 9628,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 3,
+      ".iml": 1,
+      ".md": 20,
+      ".xml": 25,
+      ".java": 98,
+      ".yml": 4,
+      ".sql": 6,
+      ".class": 83,
+      ".html": 2,
+      ".json": 5,
+      ".js": 23,
+      ".vue": 30
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "tool_config": 7,
+      "dependency": 2,
+      "javascript": 23
+    },
+    "dominant_language": "Java",
+    "dominant_language_supported": false,
+    "code_files_total": 130,
+    "code_files_analyzed": 31,
+    "code_coverage_ratio": 0.23846153846153847,
+    "unsupported_code_counts": {
+      "Java": 98
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

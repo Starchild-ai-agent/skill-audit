@@ -1,0 +1,51 @@
+{
+  "skill_owner": "kwakminoo",
+  "skill_repo": "Project-a_crowed_forest",
+  "skill_url": "https://github.com/kwakminoo/Project-a_crowed_forest",
+  "commit_hash": "b4d1616e705e2ec26f654e2843f8a855261c0268",
+  "commit_date": "2026-03-25T16:04:18+09:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:32:06.287114+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 32,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "LOW (PARTIAL AUDIT — C# code not analyzed)",
+  "overall_confidence": 0.05,
+  "scan_stats": {
+    "total_files_walked": 32,
+    "files_analyzed": 1,
+    "files_skipped_type": 31,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".yarn": 1,
+      ".cs": 15,
+      ".md": 12,
+      ".twee": 4
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1
+    },
+    "dominant_language": "C#",
+    "dominant_language_supported": false,
+    "code_files_total": 15,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 0.0625,
+    "unsupported_code_counts": {
+      "C#": 15
+    },
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

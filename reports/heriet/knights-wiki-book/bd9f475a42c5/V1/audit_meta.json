@@ -1,0 +1,54 @@
+{
+  "skill_owner": "heriet",
+  "skill_repo": "knights-wiki-book",
+  "skill_url": "https://github.com/heriet/knights-wiki-book",
+  "commit_hash": "bd9f475a42c58acc01d5e17b61f415f24d3dae36",
+  "commit_date": "2023-08-13T20:57:48+09:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:37:03.382082+00:00",
+  "total_files_scanned": 5,
+  "total_files_in_repo": 133,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "LOW",
+  "overall_confidence": 0.8626666666666667,
+  "scan_stats": {
+    "total_files_walked": 133,
+    "files_analyzed": 5,
+    "files_skipped_type": 128,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".json": 1,
+      ".yml": 2,
+      ".md": 118,
+      ".xml": 2,
+      ".ico": 1,
+      ".png": 6,
+      ".css": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 3,
+      "skill_prompt": 2
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 3,
+    "code_files_analyzed": 5,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 2
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

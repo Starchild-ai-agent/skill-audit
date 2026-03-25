@@ -1,0 +1,47 @@
+{
+  "skill_owner": "Asma-Farheen",
+  "skill_repo": "Mark.down",
+  "skill_url": "https://github.com/Asma-Farheen/Mark.down",
+  "commit_hash": "950a8b8f8d9180bacf32e7e754ff58adf6fc5bd0",
+  "commit_date": "2025-05-26T16:30:02+05:30",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:34:20.505521+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 3,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "SAFE",
+  "overall_confidence": 1.0,
+  "scan_stats": {
+    "total_files_walked": 3,
+    "files_analyzed": 1,
+    "files_skipped_type": 2,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 2,
+      "(no ext)": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

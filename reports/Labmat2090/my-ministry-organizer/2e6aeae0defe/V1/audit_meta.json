@@ -1,0 +1,52 @@
+{
+  "skill_owner": "Labmat2090",
+  "skill_repo": "my-ministry-organizer",
+  "skill_url": "https://github.com/Labmat2090/my-ministry-organizer",
+  "commit_hash": "2e6aeae0defe975d1ddd25e5bba3f2ce2f4c1f23",
+  "commit_date": "2026-03-02T13:21:25+01:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:30:19.186691+00:00",
+  "total_files_scanned": 15,
+  "total_files_in_repo": 24,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 1,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.8891666666666667,
+  "scan_stats": {
+    "total_files_walked": 24,
+    "files_analyzed": 15,
+    "files_skipped_type": 9,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 7,
+      ".js": 11,
+      ".json": 4,
+      ".css": 1
+    },
+    "analyzed_type_counts": {
+      "javascript": 11,
+      "tool_config": 3,
+      "dependency": 1
+    },
+    "dominant_language": "JavaScript",
+    "dominant_language_supported": true,
+    "code_files_total": 15,
+    "code_files_analyzed": 14,
+    "code_coverage_ratio": 0.9333333333333333,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

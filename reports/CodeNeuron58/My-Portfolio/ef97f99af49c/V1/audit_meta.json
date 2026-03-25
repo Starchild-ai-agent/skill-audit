@@ -1,0 +1,55 @@
+{
+  "skill_owner": "CodeNeuron58",
+  "skill_repo": "My-Portfolio",
+  "skill_url": "https://github.com/CodeNeuron58/My-Portfolio",
+  "commit_hash": "ef97f99af49ccb39ab88187dc8fde0d9f5e8cccd",
+  "commit_date": "2026-02-12T19:07:20+05:30",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:27:13.071411+00:00",
+  "total_files_scanned": 31,
+  "total_files_in_repo": 36,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.8883333333333333,
+  "scan_stats": {
+    "total_files_walked": 36,
+    "files_analyzed": 31,
+    "files_skipped_type": 5,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 2,
+      ".js": 3,
+      ".html": 1,
+      ".json": 5,
+      ".ts": 5,
+      ".tsx": 18,
+      ".css": 1
+    },
+    "analyzed_type_counts": {
+      "javascript": 26,
+      "tool_config": 4,
+      "dependency": 1
+    },
+    "dominant_language": "React TSX",
+    "dominant_language_supported": true,
+    "code_files_total": 31,
+    "code_files_analyzed": 30,
+    "code_coverage_ratio": 0.967741935483871,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

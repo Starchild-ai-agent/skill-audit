@@ -1,0 +1,61 @@
+{
+  "skill_owner": "tai-pucrs",
+  "skill_repo": "modulo6-plataforma",
+  "skill_url": "https://github.com/tai-pucrs/modulo6-plataforma",
+  "commit_hash": "5e949b5b1eec7af2173fc7c9a8c117c3531bfcaa",
+  "commit_date": "2026-01-25T12:32:44-03:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:33:34.477987+00:00",
+  "total_files_scanned": 27,
+  "total_files_in_repo": 91,
+  "total_findings": 6,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 2,
+    "LOW": 4,
+    "INFO": 0,
+    "SAFE": 8
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.7946666666666666,
+  "scan_stats": {
+    "total_files_walked": 91,
+    "files_analyzed": 27,
+    "files_skipped_type": 63,
+    "files_skipped_size": 1,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".txt": 2,
+      ".md": 51,
+      ".html": 4,
+      ".example": 2,
+      ".pdf": 1,
+      ".zip": 5,
+      ".ts": 10,
+      ".py": 2,
+      ".json": 5,
+      ".jsx": 5,
+      ".js": 2
+    },
+    "analyzed_type_counts": {
+      "javascript": 17,
+      "python": 2,
+      "tool_config": 4,
+      "skill_prompt": 3,
+      "dependency": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 24,
+    "code_files_analyzed": 26,
+    "code_coverage_ratio": 0.9629629629629629,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 3
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

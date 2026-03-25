@@ -1,0 +1,57 @@
+{
+  "skill_owner": "openwork-hackathon",
+  "skill_repo": "team-sentinel",
+  "skill_url": "https://github.com/openwork-hackathon/team-sentinel",
+  "commit_hash": "d28a143392cbdc8976809fa1ede5d88e1bf8d1c1",
+  "commit_date": "2026-02-13T11:45:57-08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:46:55.308872+00:00",
+  "total_files_scanned": 93,
+  "total_files_in_repo": 103,
+  "total_findings": 39,
+  "severity_counts": {
+    "CRITICAL": 1,
+    "HIGH": 1,
+    "MEDIUM": 34,
+    "LOW": 3,
+    "INFO": 0,
+    "SAFE": 6
+  },
+  "overall_risk": "CRITICAL",
+  "overall_confidence": 0.7646666666666666,
+  "scan_stats": {
+    "total_files_walked": 103,
+    "files_analyzed": 93,
+    "files_skipped_type": 10,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".example": 1,
+      "(no ext)": 2,
+      ".md": 6,
+      ".js": 2,
+      ".json": 4,
+      ".ts": 37,
+      ".svg": 1,
+      ".tsx": 49,
+      ".css": 1
+    },
+    "analyzed_type_counts": {
+      "javascript": 88,
+      "tool_config": 3,
+      "dependency": 1,
+      "skill_prompt": 1
+    },
+    "dominant_language": "React TSX",
+    "dominant_language_supported": true,
+    "code_files_total": 92,
+    "code_files_analyzed": 92,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

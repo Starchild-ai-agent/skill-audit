@@ -1,0 +1,57 @@
+{
+  "skill_owner": "CuteReimu",
+  "skill_repo": "TheMessage",
+  "skill_url": "https://github.com/CuteReimu/TheMessage",
+  "commit_hash": "dea2671363929d7fceb939e0a113ddff4733470b",
+  "commit_date": "2025-12-16T20:02:05+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:30:50.421911+00:00",
+  "total_files_scanned": 7,
+  "total_files_in_repo": 300,
+  "total_findings": 6,
+  "severity_counts": {
+    "CRITICAL": 1,
+    "HIGH": 2,
+    "MEDIUM": 0,
+    "LOW": 3,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "CRITICAL (PARTIAL AUDIT — Kotlin code not analyzed)",
+  "overall_confidence": 0.05,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 7,
+    "files_skipped_type": 351,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 5,
+      ".kts": 2,
+      ".properties": 2,
+      ".bat": 1,
+      ".md": 4,
+      ".yml": 5,
+      ".jar": 1,
+      ".kt": 280
+    },
+    "analyzed_type_counts": {
+      "shell": 1,
+      "tool_config": 5,
+      "skill_prompt": 1
+    },
+    "dominant_language": "Kotlin",
+    "dominant_language_supported": false,
+    "code_files_total": 287,
+    "code_files_analyzed": 7,
+    "code_coverage_ratio": 0.024390243902439025,
+    "unsupported_code_counts": {
+      "Kotlin": 282
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

@@ -1,0 +1,50 @@
+{
+  "skill_owner": "gzpaitch",
+  "skill_repo": "gztips",
+  "skill_url": "https://github.com/gzpaitch/gztips",
+  "commit_hash": "7d51e42b22053f10354fcd5ce5c430d32dde70a8",
+  "commit_date": "2026-03-07T15:37:56-03:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:29:17.997536+00:00",
+  "total_files_scanned": 3,
+  "total_files_in_repo": 27,
+  "total_findings": 3,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 3,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.7222222222222223,
+  "scan_stats": {
+    "total_files_walked": 27,
+    "files_analyzed": 3,
+    "files_skipped_type": 24,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 24,
+      ".json": 1,
+      ".yml": 1,
+      ".js": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 2,
+      "javascript": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 3,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

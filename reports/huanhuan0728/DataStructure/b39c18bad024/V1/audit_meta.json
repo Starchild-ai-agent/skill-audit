@@ -1,0 +1,62 @@
+{
+  "skill_owner": "huanhuan0728",
+  "skill_repo": "DataStructure",
+  "skill_url": "https://github.com/huanhuan0728/DataStructure",
+  "commit_hash": "b39c18bad024bea54a7c7d19398dd17e693b4880",
+  "commit_date": "2025-01-15T23:07:49+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:31:31.585038+00:00",
+  "total_files_scanned": 5,
+  "total_files_in_repo": 22,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 5
+  },
+  "overall_risk": "PARTIAL — core language (JSON) not analyzed",
+  "overall_confidence": 0.34055555555555556,
+  "scan_stats": {
+    "total_files_walked": 22,
+    "files_analyzed": 5,
+    "files_skipped_type": 17,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 4,
+      ".md": 1,
+      ".json": 4,
+      ".cpp": 2,
+      ".hpp": 1,
+      ".c": 3,
+      ".plist": 2,
+      ".yml": 1,
+      ".h": 1,
+      ".pbxproj": 1,
+      ".xcworkspacedata": 1,
+      ".xcuserstate": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 5
+    },
+    "dominant_language": "JSON",
+    "dominant_language_supported": true,
+    "code_files_total": 12,
+    "code_files_analyzed": 5,
+    "code_coverage_ratio": 0.4166666666666667,
+    "unsupported_code_counts": {
+      "C++": 2,
+      "C++ Header": 1,
+      "C": 3,
+      "C/C++ Header": 1
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

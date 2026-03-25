@@ -1,0 +1,47 @@
+{
+  "skill_owner": "MasujimaRyohei",
+  "skill_repo": "Career",
+  "skill_url": "https://github.com/MasujimaRyohei/Career",
+  "commit_hash": "e60bace36abd7e699e48bd89a45d3c6828517ffc",
+  "commit_date": "2025-02-05T15:52:21+09:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:30:55.922923+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 4,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "SAFE",
+  "overall_confidence": 1.0,
+  "scan_stats": {
+    "total_files_walked": 4,
+    "files_analyzed": 1,
+    "files_skipped_type": 3,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 3
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

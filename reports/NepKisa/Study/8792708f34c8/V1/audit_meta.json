@@ -1,0 +1,51 @@
+{
+  "skill_owner": "NepKisa",
+  "skill_repo": "Study",
+  "skill_url": "https://github.com/NepKisa/Study",
+  "commit_hash": "8792708f34c8949891829dc46c5202b06a62608a",
+  "commit_date": "2026-03-25T00:56:49+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:36:09.070223+00:00",
+  "total_files_scanned": 0,
+  "total_files_in_repo": 300,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "INCOMPLETE",
+  "overall_confidence": 0.0,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 0,
+    "files_skipped_type": 27186,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 6,
+      ".template": 1,
+      ".md": 2,
+      ".hpp": 289,
+      ".h": 2
+    },
+    "analyzed_type_counts": {},
+    "dominant_language": "C++ Header",
+    "dominant_language_supported": false,
+    "code_files_total": 291,
+    "code_files_analyzed": 0,
+    "code_coverage_ratio": 0.0,
+    "unsupported_code_counts": {
+      "C++ Header": 289,
+      "C/C++ Header": 2
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": true
+}

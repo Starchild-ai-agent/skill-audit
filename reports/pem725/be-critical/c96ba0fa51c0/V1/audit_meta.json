@@ -1,0 +1,50 @@
+{
+  "skill_owner": "pem725",
+  "skill_repo": "be-critical",
+  "skill_url": "https://github.com/pem725/be-critical",
+  "commit_hash": "c96ba0fa51c0167b29c5317b50586ed08031a92c",
+  "commit_date": "2026-02-04T14:08:01-05:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:34:28.262567+00:00",
+  "total_files_scanned": 3,
+  "total_files_in_repo": 11,
+  "total_findings": 2,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 1,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.7411111111111112,
+  "scan_stats": {
+    "total_files_walked": 11,
+    "files_analyzed": 3,
+    "files_skipped_type": 8,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".zip": 1,
+      ".md": 8,
+      ".txt": 1,
+      ".yml": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 2,
+      "tool_config": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 1,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 2
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

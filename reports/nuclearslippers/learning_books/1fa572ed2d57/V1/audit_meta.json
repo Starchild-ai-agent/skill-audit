@@ -1,0 +1,48 @@
+{
+  "skill_owner": "nuclearslippers",
+  "skill_repo": "learning_books",
+  "skill_url": "https://github.com/nuclearslippers/learning_books",
+  "commit_hash": "1fa572ed2d575a163bb48789ebfe6ebaaa610e0f",
+  "commit_date": "2025-11-08T10:48:41+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:28:54.800354+00:00",
+  "total_files_scanned": 2,
+  "total_files_in_repo": 23,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "SAFE",
+  "overall_confidence": 0.7,
+  "scan_stats": {
+    "total_files_walked": 23,
+    "files_analyzed": 2,
+    "files_skipped_type": 21,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 20,
+      ".py": 2
+    },
+    "analyzed_type_counts": {
+      "python": 2
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 2,
+    "code_files_analyzed": 2,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

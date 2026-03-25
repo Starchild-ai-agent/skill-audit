@@ -1,0 +1,51 @@
+{
+  "skill_owner": "lexkong",
+  "skill_repo": "lexVim",
+  "skill_url": "https://github.com/lexkong/lexVim",
+  "commit_hash": "0b3afe3eb60b4c1dab0ae776a5b9685dd2404b52",
+  "commit_date": "2018-05-31T10:53:53+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:38:15.017467+00:00",
+  "total_files_scanned": 3,
+  "total_files_in_repo": 13,
+  "total_findings": 6,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 1,
+    "MEDIUM": 4,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "HIGH",
+  "overall_confidence": 0.7311111111111112,
+  "scan_stats": {
+    "total_files_walked": 13,
+    "files_analyzed": 3,
+    "files_skipped_type": 9,
+    "files_skipped_size": 1,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".md": 4,
+      ".sh": 2,
+      ".jpg": 3,
+      ".gz": 2
+    },
+    "analyzed_type_counts": {
+      "shell": 2,
+      "skill_prompt": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 2,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

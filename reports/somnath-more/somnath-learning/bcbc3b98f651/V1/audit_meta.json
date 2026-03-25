@@ -1,0 +1,73 @@
+{
+  "skill_owner": "somnath-more",
+  "skill_repo": "somnath-learning",
+  "skill_url": "https://github.com/somnath-more/somnath-learning",
+  "commit_hash": "bcbc3b98f6518bae02ae5eb0ac785e56cf5a358b",
+  "commit_date": "2025-12-14T19:16:59+05:30",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:29:35.886291+00:00",
+  "total_files_scanned": 22,
+  "total_files_in_repo": 300,
+  "total_findings": 6,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 1,
+    "MEDIUM": 2,
+    "LOW": 3,
+    "INFO": 0,
+    "SAFE": 4
+  },
+  "overall_risk": "HIGH (PARTIAL AUDIT — Java code not analyzed)",
+  "overall_confidence": 0.10661870503597123,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 22,
+    "files_skipped_type": 467,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 7,
+      ".yml": 3,
+      ".json": 4,
+      ".d": 1,
+      "(no ext)": 10,
+      ".cmd": 1,
+      ".xml": 1,
+      ".properties": 2,
+      ".java": 118,
+      ".conf": 1,
+      ".ico": 1,
+      ".html": 64,
+      ".png": 2,
+      ".txt": 1,
+      ".css": 57,
+      ".tsx": 5,
+      ".svg": 2,
+      ".ts": 3,
+      ".js": 6,
+      ".scss": 1,
+      ".slim": 1,
+      ".class": 8,
+      ".sql": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 6,
+      "shell": 1,
+      "dependency": 1,
+      "javascript": 14
+    },
+    "dominant_language": "Java",
+    "dominant_language_supported": false,
+    "code_files_total": 139,
+    "code_files_analyzed": 21,
+    "code_coverage_ratio": 0.1510791366906475,
+    "unsupported_code_counts": {
+      "Java": 118
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

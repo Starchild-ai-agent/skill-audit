@@ -1,0 +1,64 @@
+{
+  "skill_owner": "techatspree",
+  "skill_repo": "GcRustVsJvm",
+  "skill_url": "https://github.com/techatspree/GcRustVsJvm",
+  "commit_hash": "6b22520e3728851a4710ccb64be463ec5ff5710b",
+  "commit_date": "2026-01-04T19:46:25+01:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:38:47.367649+00:00",
+  "total_files_scanned": 3,
+  "total_files_in_repo": 32,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 3
+  },
+  "overall_risk": "MEDIUM (PARTIAL — core language (Haskell) not analyzed)",
+  "overall_confidence": 0.1980952380952381,
+  "scan_stats": {
+    "total_files_walked": 32,
+    "files_analyzed": 3,
+    "files_skipped_type": 29,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 4,
+      ".gradle": 2,
+      ".md": 5,
+      ".properties": 2,
+      ".bat": 1,
+      ".jar": 1,
+      ".cabal": 1,
+      ".yaml": 2,
+      ".hs": 6,
+      ".kt": 1,
+      ".lock": 1,
+      ".toml": 1,
+      ".rs": 4,
+      ".numbers": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "tool_config": 2
+    },
+    "dominant_language": "Haskell",
+    "dominant_language_supported": false,
+    "code_files_total": 13,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 0.21428571428571427,
+    "unsupported_code_counts": {
+      "Haskell": 6,
+      "Kotlin": 1,
+      "Rust": 4
+    },
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

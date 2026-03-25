@@ -1,0 +1,51 @@
+{
+  "skill_owner": "jymot",
+  "skill_repo": "awesome-notes",
+  "skill_url": "https://github.com/jymot/awesome-notes",
+  "commit_hash": "6112d0396cf8912374ec1a76a4a678458666a795",
+  "commit_date": "2026-02-03T08:55:36+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:31:38.355320+00:00",
+  "total_files_scanned": 3,
+  "total_files_in_repo": 38,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "LOW",
+  "overall_confidence": 0.8411111111111111,
+  "scan_stats": {
+    "total_files_walked": 38,
+    "files_analyzed": 3,
+    "files_skipped_type": 35,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 33,
+      ".js-ts": 1,
+      ".js-vue": 1,
+      ".json": 2,
+      "(no ext)": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "tool_config": 2
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 2,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

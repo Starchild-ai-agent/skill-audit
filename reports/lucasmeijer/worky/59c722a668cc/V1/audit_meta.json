@@ -1,0 +1,54 @@
+{
+  "skill_owner": "lucasmeijer",
+  "skill_repo": "worky",
+  "skill_url": "https://github.com/lucasmeijer/worky",
+  "commit_hash": "59c722a668cc132b0c28ca3b1227dc769a28a2ca",
+  "commit_date": "2026-01-29T14:22:25+01:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:33:15.361680+00:00",
+  "total_files_scanned": 6,
+  "total_files_in_repo": 63,
+  "total_findings": 8,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 4,
+    "LOW": 4,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "MEDIUM (PARTIAL AUDIT — Swift code not analyzed)",
+  "overall_confidence": 0.07042857142857142,
+  "scan_stats": {
+    "total_files_walked": 63,
+    "files_analyzed": 6,
+    "files_skipped_type": 56,
+    "files_skipped_size": 1,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".md": 3,
+      ".swift": 52,
+      ".icns": 1,
+      ".plist": 1,
+      ".sh": 4
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "shell": 5
+    },
+    "dominant_language": "Swift",
+    "dominant_language_supported": false,
+    "code_files_total": 56,
+    "code_files_analyzed": 6,
+    "code_coverage_ratio": 0.10714285714285714,
+    "unsupported_code_counts": {
+      "Swift": 52
+    },
+    "is_low_coverage": true,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

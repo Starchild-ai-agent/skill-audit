@@ -1,0 +1,51 @@
+{
+  "skill_owner": "quasi",
+  "skill_repo": "cl-memcached",
+  "skill_url": "https://github.com/quasi/cl-memcached",
+  "commit_hash": "e0f7187701742e88baea10dd6020543264970f18",
+  "commit_date": "2026-01-21T16:41:33+05:30",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:36:20.582584+00:00",
+  "total_files_scanned": 2,
+  "total_files_in_repo": 43,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.885,
+  "scan_stats": {
+    "total_files_walked": 43,
+    "files_analyzed": 2,
+    "files_skipped_type": 41,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".asd": 2,
+      ".lisp": 3,
+      ".md": 36,
+      "(no ext)": 1,
+      ".yaml": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "tool_config": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 1,
+    "code_files_analyzed": 2,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

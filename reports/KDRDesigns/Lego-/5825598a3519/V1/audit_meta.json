@@ -1,0 +1,51 @@
+{
+  "skill_owner": "KDRDesigns",
+  "skill_repo": "Lego-",
+  "skill_url": "https://github.com/KDRDesigns/Lego-",
+  "commit_hash": "5825598a3519765d8213ffcc096afa795d213b18",
+  "commit_date": "2026-02-09T14:03:16-05:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:24:00.574198+00:00",
+  "total_files_scanned": 4,
+  "total_files_in_repo": 14,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 1.0,
+  "scan_stats": {
+    "total_files_walked": 14,
+    "files_analyzed": 4,
+    "files_skipped_type": 10,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 3,
+      ".md": 7,
+      ".json": 3,
+      ".tsx": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 2,
+      "dependency": 1,
+      "javascript": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 4,
+    "code_files_analyzed": 3,
+    "code_coverage_ratio": 0.75,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

@@ -1,0 +1,49 @@
+{
+  "skill_owner": "OrbitalEnterprises",
+  "skill_repo": "evekit-sde-client",
+  "skill_url": "https://github.com/OrbitalEnterprises/evekit-sde-client",
+  "commit_hash": "d3fad11b1cd9d9f2c019c6222b97267783581199",
+  "commit_date": "2022-05-20T18:53:01-04:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:24:44.992561+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 106,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.7,
+  "scan_stats": {
+    "total_files_walked": 106,
+    "files_analyzed": 1,
+    "files_skipped_type": 105,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".xml": 1,
+      ".md": 102,
+      ".sh": 1
+    },
+    "analyzed_type_counts": {
+      "shell": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 1,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

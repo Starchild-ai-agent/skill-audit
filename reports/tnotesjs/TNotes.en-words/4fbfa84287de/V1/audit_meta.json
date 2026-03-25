@@ -1,0 +1,45 @@
+{
+  "skill_owner": "tnotesjs",
+  "skill_repo": "TNotes.en-words",
+  "skill_url": "https://github.com/tnotesjs/TNotes.en-words",
+  "commit_hash": "4fbfa84287de34f2d4692d8bf549fdf8ef381c90",
+  "commit_date": "2025-10-10T07:52:39+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:24:20.137793+00:00",
+  "total_files_scanned": 0,
+  "total_files_in_repo": 300,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "INCOMPLETE",
+  "overall_confidence": 0.0,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 0,
+    "files_skipped_type": 22312,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 1,
+      ".md": 299
+    },
+    "analyzed_type_counts": {},
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 0,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": true
+}

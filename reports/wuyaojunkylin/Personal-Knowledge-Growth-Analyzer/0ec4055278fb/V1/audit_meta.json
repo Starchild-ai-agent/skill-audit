@@ -1,0 +1,49 @@
+{
+  "skill_owner": "wuyaojunkylin",
+  "skill_repo": "Personal-Knowledge-Growth-Analyzer",
+  "skill_url": "https://github.com/wuyaojunkylin/Personal-Knowledge-Growth-Analyzer",
+  "commit_hash": "0ec4055278fb50c96b400b796bd33389f3b238d6",
+  "commit_date": "2026-01-26T20:57:50+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:41:39.283016+00:00",
+  "total_files_scanned": 10,
+  "total_files_in_repo": 18,
+  "total_findings": 34,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 15,
+    "MEDIUM": 7,
+    "LOW": 12,
+    "INFO": 8,
+    "SAFE": 2
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.725,
+  "scan_stats": {
+    "total_files_walked": 18,
+    "files_analyzed": 10,
+    "files_skipped_type": 8,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".md": 7,
+      ".py": 9
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "python": 9
+    },
+    "dominant_language": "Python",
+    "dominant_language_supported": true,
+    "code_files_total": 9,
+    "code_files_analyzed": 10,
+    "code_coverage_ratio": 1.1111111111111112,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

@@ -1,0 +1,62 @@
+{
+  "skill_owner": "umami-software",
+  "skill_repo": "react-zen",
+  "skill_url": "https://github.com/umami-software/react-zen",
+  "commit_hash": "06ea26857428076891fb376e55ce6470f8d6aea9",
+  "commit_date": "2026-03-15T23:51:31-07:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:34:59.456011+00:00",
+  "total_files_scanned": 189,
+  "total_files_in_repo": 300,
+  "total_findings": 8,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "MEDIUM": 4,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 10
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.8859999999999999,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 189,
+    "files_skipped_type": 124,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 4,
+      ".json": 9,
+      ".yaml": 2,
+      ".md": 2,
+      ".ts": 46,
+      ".mjs": 5,
+      ".tsx": 126,
+      ".css": 12,
+      ".mdx": 82,
+      ".png": 5,
+      ".ico": 1,
+      ".webmanifest": 1,
+      ".jpg": 1,
+      ".svg": 4
+    },
+    "analyzed_type_counts": {
+      "tool_config": 7,
+      "dependency": 4,
+      "skill_prompt": 1,
+      "javascript": 177
+    },
+    "dominant_language": "React TSX",
+    "dominant_language_supported": true,
+    "code_files_total": 188,
+    "code_files_analyzed": 185,
+    "code_coverage_ratio": 0.9840425531914894,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

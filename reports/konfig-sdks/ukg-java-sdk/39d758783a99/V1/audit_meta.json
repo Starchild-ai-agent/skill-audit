@@ -1,0 +1,54 @@
+{
+  "skill_owner": "konfig-sdks",
+  "skill_repo": "ukg-java-sdk",
+  "skill_url": "https://github.com/konfig-sdks/ukg-java-sdk",
+  "commit_hash": "39d758783a9927875cbb45cc22e27b366daa31f1",
+  "commit_date": "2024-03-27T11:04:47-07:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:35:39.971301+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 300,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 1.0,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 1,
+    "files_skipped_type": 1813,
+    "files_skipped_size": 1,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".gradle": 2,
+      ".sbt": 1,
+      ".properties": 1,
+      ".bat": 1,
+      ".png": 1,
+      ".xml": 1,
+      ".md": 290,
+      ".yaml": 1
+    },
+    "analyzed_type_counts": {
+      "shell": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 1,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

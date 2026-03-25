@@ -1,0 +1,55 @@
+{
+  "skill_owner": "Nova-Hunting",
+  "skill_repo": "nova-tracer",
+  "skill_url": "https://github.com/Nova-Hunting/nova-tracer",
+  "commit_hash": "33f1f36554f4355899d74e07345e8b48d1de9780",
+  "commit_date": "2026-02-07T16:52:06+10:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:29:28.604566+00:00",
+  "total_files_scanned": 34,
+  "total_files_in_repo": 48,
+  "total_findings": 61,
+  "severity_counts": {
+    "CRITICAL": 2,
+    "HIGH": 6,
+    "MEDIUM": 7,
+    "LOW": 46,
+    "INFO": 4,
+    "SAFE": 3
+  },
+  "overall_risk": "CRITICAL",
+  "overall_confidence": 0.757,
+  "scan_stats": {
+    "total_files_walked": 48,
+    "files_analyzed": 34,
+    "files_skipped_type": 14,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".sh": 4,
+      ".md": 5,
+      ".yaml": 1,
+      ".py": 28,
+      ".nov": 4,
+      ".txt": 4
+    },
+    "analyzed_type_counts": {
+      "shell": 4,
+      "skill_prompt": 1,
+      "tool_config": 1,
+      "python": 28
+    },
+    "dominant_language": "Python",
+    "dominant_language_supported": true,
+    "code_files_total": 33,
+    "code_files_analyzed": 34,
+    "code_coverage_ratio": 1.0303030303030303,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

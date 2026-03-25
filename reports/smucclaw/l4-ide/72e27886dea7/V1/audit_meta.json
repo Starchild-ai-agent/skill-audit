@@ -1,0 +1,69 @@
+{
+  "skill_owner": "smucclaw",
+  "skill_repo": "l4-ide",
+  "skill_url": "https://github.com/smucclaw/l4-ide",
+  "commit_hash": "72e27886dea76575a6beab91dbf28234968ec072",
+  "commit_date": "2026-03-25T05:38:33+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:42:41.631936+00:00",
+  "total_files_scanned": 20,
+  "total_files_in_repo": 300,
+  "total_findings": 18,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 6,
+    "MEDIUM": 3,
+    "LOW": 9,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "HIGH",
+  "overall_confidence": 0.7256666666666667,
+  "scan_stats": {
+    "total_files_walked": 300,
+    "files_analyzed": 20,
+    "files_skipped_type": 2157,
+    "files_skipped_size": 1,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 11,
+      ".md": 97,
+      ".project": 2,
+      ".json": 12,
+      ".sh": 4,
+      ".yml": 5,
+      ".jl4-decision-service": 1,
+      ".jl4-lsp": 1,
+      ".jl4-service": 1,
+      ".jl4-web": 1,
+      ".jl4-websessions": 1,
+      ".lock": 1,
+      ".nix": 1,
+      ".png": 1,
+      ".l4": 109,
+      ".el": 1,
+      ".cabal": 1,
+      ".hs": 2,
+      ".golden": 47,
+      ".csv": 1
+    },
+    "analyzed_type_counts": {
+      "tool_config": 15,
+      "shell": 4,
+      "dependency": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 23,
+    "code_files_analyzed": 19,
+    "code_coverage_ratio": 0.8260869565217391,
+    "unsupported_code_counts": {
+      "Haskell": 2
+    },
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

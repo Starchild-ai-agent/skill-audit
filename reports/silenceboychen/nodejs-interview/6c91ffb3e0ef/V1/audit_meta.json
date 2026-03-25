@@ -1,0 +1,48 @@
+{
+  "skill_owner": "silenceboychen",
+  "skill_repo": "nodejs-interview",
+  "skill_url": "https://github.com/silenceboychen/nodejs-interview",
+  "commit_hash": "6c91ffb3e0ef4984508cf52726e1c5fe03f543dc",
+  "commit_date": "2021-08-13T10:45:27+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:35:02.380685+00:00",
+  "total_files_scanned": 1,
+  "total_files_in_repo": 12,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 1
+  },
+  "overall_risk": "SAFE",
+  "overall_confidence": 1.0,
+  "scan_stats": {
+    "total_files_walked": 12,
+    "files_analyzed": 1,
+    "files_skipped_type": 11,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 9,
+      "(no ext)": 1,
+      ".png": 2
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1
+    },
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 1,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": true,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}

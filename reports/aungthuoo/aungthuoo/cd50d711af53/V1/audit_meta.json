@@ -1,0 +1,47 @@
+{
+  "skill_owner": "aungthuoo",
+  "skill_repo": "aungthuoo",
+  "skill_url": "https://github.com/aungthuoo/aungthuoo",
+  "commit_hash": "cd50d711af530e88d6d67db2e4cedf764400a312",
+  "commit_date": "2024-09-14T18:47:11+06:30",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:28:32.667492+00:00",
+  "total_files_scanned": 0,
+  "total_files_in_repo": 29,
+  "total_findings": 0,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0,
+    "SAFE": 0
+  },
+  "overall_risk": "INCOMPLETE",
+  "overall_confidence": 0.0,
+  "scan_stats": {
+    "total_files_walked": 29,
+    "files_analyzed": 0,
+    "files_skipped_type": 26,
+    "files_skipped_size": 3,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 7,
+      ".jpg": 1,
+      ".png": 11,
+      ".jpeg": 10
+    },
+    "analyzed_type_counts": {},
+    "dominant_language": "Markdown",
+    "dominant_language_supported": true,
+    "code_files_total": 0,
+    "code_files_analyzed": 0,
+    "code_coverage_ratio": 1.0,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": true
+}

@@ -1,0 +1,56 @@
+{
+  "skill_owner": "0verL1nk",
+  "skill_repo": "skill-guard",
+  "skill_url": "https://github.com/0verL1nk/skill-guard",
+  "commit_hash": "b637de240d45836c25d19428f1848e905847b70e",
+  "commit_date": "2026-02-09T10:18:45+08:00",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T08:27:52.597172+00:00",
+  "total_files_scanned": 27,
+  "total_files_in_repo": 36,
+  "total_findings": 11,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 7,
+    "LOW": 4,
+    "INFO": 0,
+    "SAFE": 6
+  },
+  "overall_risk": "MEDIUM",
+  "overall_confidence": 0.842,
+  "scan_stats": {
+    "total_files_walked": 36,
+    "files_analyzed": 27,
+    "files_skipped_type": 9,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      "(no ext)": 2,
+      ".md": 6,
+      ".mts": 1,
+      ".sh": 2,
+      ".json": 15,
+      ".js": 4,
+      ".yml": 2,
+      ".ts": 4
+    },
+    "analyzed_type_counts": {
+      "shell": 2,
+      "tool_config": 12,
+      "dependency": 5,
+      "javascript": 8
+    },
+    "dominant_language": "JSON",
+    "dominant_language_supported": true,
+    "code_files_total": 27,
+    "code_files_analyzed": 22,
+    "code_coverage_ratio": 0.8148148148148148,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 0
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}
