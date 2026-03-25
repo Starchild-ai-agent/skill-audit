@@ -1,0 +1,49 @@
+{
+  "skill_owner": "Starchild-ai-agent",
+  "skill_repo": "official-skills/twelvedata",
+  "skill_url": "https://github.com/Starchild-ai-agent/official-skills/tree/main/twelvedata",
+  "commit_hash": "76ee44dea5bb4fd8d4d5ce91ba9269a84c385e90",
+  "commit_date": "2026-03-25T10:28:04Z",
+  "audit_agent_version": "V1",
+  "audit_date": "2026-03-25T11:15:21.183637+00:00",
+  "total_files_scanned": 7,
+  "total_files_in_repo": 8,
+  "total_findings": 1,
+  "severity_counts": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 1,
+    "INFO": 0,
+    "SAFE": 2
+  },
+  "overall_risk": "LOW",
+  "overall_confidence": 0.8583333333333333,
+  "scan_stats": {
+    "total_files_walked": 8,
+    "files_analyzed": 7,
+    "files_skipped_type": 1,
+    "files_skipped_size": 0,
+    "files_skipped_error": 0,
+    "file_type_counts": {
+      ".md": 1,
+      ".py": 6,
+      ".png": 1
+    },
+    "analyzed_type_counts": {
+      "skill_prompt": 1,
+      "python": 6
+    },
+    "dominant_language": "Python",
+    "dominant_language_supported": true,
+    "code_files_total": 6,
+    "code_files_analyzed": 7,
+    "code_coverage_ratio": 1.1666666666666667,
+    "unsupported_code_counts": {},
+    "is_low_coverage": false,
+    "is_prompt_based": false,
+    "skill_prompts_analyzed": 1
+  },
+  "llm_failures": 0,
+  "is_incomplete": false
+}
